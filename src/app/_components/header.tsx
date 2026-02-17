@@ -4,7 +4,7 @@ import Image from "next/image";
 const Header = () => {
   return (
     <div className="sticky top-4 z-50 flex justify-center mb-20 mt-8">
-      <nav className="inline-flex items-center gap-4 px-6 py-3 bg-white/70 dark:bg-slate-800/70 backdrop-blur-md border border-polystate-border dark:border-slate-700 rounded-full shadow-sm">
+      <nav className="inline-flex items-center gap-4 px-6 py-3 bg-white/80 backdrop-blur-md border border-polystate-border rounded-full shadow-sm">
         <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
           <Image
             src="/assets/polystate-logo.svg"
@@ -13,14 +13,14 @@ const Header = () => {
             height={28}
             className="w-7 h-7"
           />
-          <span className="text-xl font-bold tracking-tight text-polystate-blue">
+          <span className="text-xl font-bold tracking-tight text-polystate-dark">
             Polystate
           </span>
         </Link>
-        <span className="text-polystate-border dark:text-slate-600">|</span>
+        <span className="text-polystate-border">|</span>
         <Link
           href="/"
-          className="text-sm font-medium text-polystate-text-secondary hover:text-polystate-blue dark:text-slate-400 dark:hover:text-blue-400 transition-colors"
+          className="text-sm font-medium text-polystate-text-secondary hover:text-polystate-blue transition-colors"
         >
           Blog
         </Link>
@@ -28,7 +28,7 @@ const Header = () => {
           href="https://polystate.io"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-sm font-medium text-polystate-text-secondary hover:text-polystate-blue dark:text-slate-400 dark:hover:text-blue-400 transition-colors"
+          className="text-sm font-medium text-white bg-polystate-blue hover:bg-polystate-dark px-4 py-1.5 rounded-full transition-colors"
         >
           polystate.io
         </a>

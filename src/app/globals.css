@@ -4,79 +4,21 @@
 
 @layer base {
   body {
-    @apply bg-white text-polystate-text;
+    @apply bg-white antialiased;
+    color: #030B21;
   }
 
   ::selection {
-    @apply bg-polystate-blue/20;
+    background: #CADDFF;
+    color: #030B21;
   }
 }
 
-@layer components {
-  .glassmorphic {
-    background: rgba(255, 255, 255, 0.7);
-    backdrop-filter: blur(3.5px);
-    -webkit-backdrop-filter: blur(3.5px);
-    border: 1px solid #EAEAEA;
-    border-radius: 31px;
+@layer utilities {
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
-
-  .dark .glassmorphic {
-    background: rgba(30, 41, 59, 0.7);
-    border-color: rgba(51, 65, 85, 0.5);
-  }
-}
-
-/* Dark mode overrides for markdown content */
-.dark .markdown {
-  color: #94a3b8;
-}
-
-.dark .markdown h2,
-.dark .markdown h3,
-.dark .markdown strong {
-  color: #e2e8f0;
-}
-
-.dark .markdown a {
-  color: #60a5fa;
-}
-
-.dark .markdown a:hover {
-  color: #93bbfd;
-}
-
-.dark .markdown blockquote {
-  border-color: #3b82f6;
-  color: #94a3b8;
-}
-
-.dark .markdown code {
-  background: #1e293b;
-  color: #e2e8f0;
-}
-
-.dark .markdown pre {
-  background: #1e293b;
-}
-
-.dark .markdown thead {
-  background: #1e293b;
-}
-
-.dark .markdown th {
-  color: #e2e8f0;
-  border-color: #334155;
-}
-
-.dark .markdown td {
-  border-color: #334155;
-}
-
-.dark .markdown tr:hover {
-  background: #1e293b;
-}
-
-.dark .markdown hr {
-  border-color: #334155;
 }

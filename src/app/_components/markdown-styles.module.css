@@ -1,5 +1,6 @@
 .markdown {
-  @apply text-lg leading-relaxed text-polystate-text;
+  @apply text-lg leading-relaxed;
+  color: #333;
 }
 
 .markdown p,
@@ -10,19 +11,25 @@
 }
 
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug font-bold text-polystate-text;
+  @apply text-3xl mt-12 mb-4 leading-snug font-bold;
+  color: #030B21;
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug font-semibold text-polystate-text;
+  @apply text-2xl mt-8 mb-4 leading-snug font-semibold;
+  color: #030B21;
 }
 
 .markdown a {
-  @apply text-polystate-blue underline hover:text-blue-700 transition-colors;
+  color: #0E36A5;
+  @apply underline decoration-polystate-light-blue underline-offset-2 hover:decoration-polystate-blue transition-colors;
 }
 
 .markdown blockquote {
-  @apply border-l-4 border-polystate-blue pl-6 italic text-polystate-text-secondary;
+  @apply border-l-4 pl-6 italic my-8 py-2;
+  border-color: #0E36A5;
+  background: #CADDFF20;
+  color: #555;
 }
 
 .markdown ul {
@@ -38,41 +45,53 @@
 }
 
 .markdown table {
-  @apply w-full border-collapse my-8;
+  @apply w-full border-collapse my-8 rounded-lg overflow-hidden;
 }
 
 .markdown thead {
-  @apply bg-polystate-light;
+  background: #0E36A5;
 }
 
 .markdown th {
-  @apply text-left py-3 px-4 font-semibold text-polystate-text border-b-2 border-polystate-border;
+  @apply text-left py-3 px-4 font-semibold text-white text-sm;
 }
 
 .markdown td {
-  @apply py-3 px-4 border-b border-polystate-border;
+  @apply py-3 px-4 text-sm;
+  border-bottom: 1px solid #EAEAEA;
 }
 
-.markdown tr:hover {
-  @apply bg-polystate-section;
+.markdown tbody tr:hover {
+  background: #CADDFF20;
 }
 
 .markdown code {
-  @apply bg-polystate-light px-1.5 py-0.5 rounded text-sm;
+  @apply px-1.5 py-0.5 rounded text-sm font-mono;
+  background: #CADDFF30;
+  color: #0E36A5;
 }
 
 .markdown pre {
-  @apply bg-polystate-light p-4 rounded-lg overflow-x-auto my-6;
+  @apply p-5 rounded-xl overflow-x-auto my-8;
+  background: #030B21;
+  color: #CADDFF;
 }
 
 .markdown pre code {
   @apply bg-transparent p-0;
+  color: #CADDFF;
 }
 
 .markdown strong {
-  @apply font-bold text-polystate-text;
+  @apply font-bold;
+  color: #030B21;
 }
 
 .markdown hr {
-  @apply my-10 border-polystate-border;
+  @apply my-12;
+  border-color: #EAEAEA;
+}
+
+.markdown img {
+  @apply rounded-xl my-8;
 }
