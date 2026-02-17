@@ -28,17 +28,22 @@ export function HeroPost({
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div>
-          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
-            <Link href={`/posts/${slug}`} className="hover:underline">
+          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight font-bold text-polystate-text dark:text-slate-200">
+            <Link
+              href={`/posts/${slug}`}
+              className="hover:text-polystate-blue dark:hover:text-blue-400 transition-colors"
+            >
               {title}
             </Link>
           </h3>
-          <div className="mb-4 md:mb-0 text-lg">
+          <div className="mb-4 md:mb-0 text-lg text-polystate-text-secondary">
             <DateFormatter dateString={date} />
           </div>
         </div>
         <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+          <p className="text-lg leading-relaxed mb-4 text-polystate-text dark:text-slate-300">
+            {excerpt}
+          </p>
           <Avatar name={author.name} picture={author.picture} />
         </div>
       </div>

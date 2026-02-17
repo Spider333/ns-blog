@@ -1,5 +1,5 @@
 .markdown {
-  @apply text-lg leading-relaxed;
+  @apply text-lg leading-relaxed text-polystate-text;
 }
 
 .markdown p,
@@ -10,9 +10,69 @@
 }
 
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug;
+  @apply text-3xl mt-12 mb-4 leading-snug font-bold text-polystate-text;
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug;
+  @apply text-2xl mt-8 mb-4 leading-snug font-semibold text-polystate-text;
+}
+
+.markdown a {
+  @apply text-polystate-blue underline hover:text-blue-700 transition-colors;
+}
+
+.markdown blockquote {
+  @apply border-l-4 border-polystate-blue pl-6 italic text-polystate-text-secondary;
+}
+
+.markdown ul {
+  @apply list-disc pl-6;
+}
+
+.markdown ol {
+  @apply list-decimal pl-6;
+}
+
+.markdown li {
+  @apply mb-2;
+}
+
+.markdown table {
+  @apply w-full border-collapse my-8;
+}
+
+.markdown thead {
+  @apply bg-polystate-light;
+}
+
+.markdown th {
+  @apply text-left py-3 px-4 font-semibold text-polystate-text border-b-2 border-polystate-border;
+}
+
+.markdown td {
+  @apply py-3 px-4 border-b border-polystate-border;
+}
+
+.markdown tr:hover {
+  @apply bg-polystate-section;
+}
+
+.markdown code {
+  @apply bg-polystate-light px-1.5 py-0.5 rounded text-sm;
+}
+
+.markdown pre {
+  @apply bg-polystate-light p-4 rounded-lg overflow-x-auto my-6;
+}
+
+.markdown pre code {
+  @apply bg-transparent p-0;
+}
+
+.markdown strong {
+  @apply font-bold text-polystate-text;
+}
+
+.markdown hr {
+  @apply my-10 border-polystate-border;
 }

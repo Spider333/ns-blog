@@ -20,6 +20,12 @@ const config: Config = {
         "accent-7": "#333",
         success: "#0070f3",
         cyan: "#79FFE1",
+        "polystate-blue": "#0E36A5",
+        "polystate-light": "#F5F5F7",
+        "polystate-section": "#F9F9F9",
+        "polystate-text": "#1A1A1A",
+        "polystate-text-secondary": "#6B7280",
+        "polystate-border": "#EAEAEA",
       },
       spacing: {
         28: "7rem",
