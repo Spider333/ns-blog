@@ -90,10 +90,10 @@ The project was originally known as Vitalia and went through a notable split in 
 <div class="stat"><span class="stat-number">89</span><span class="stat-label">Permanent Residents</span></div>
 <div class="stat"><span class="stat-number">$25M</span><span class="stat-label">Raised by Residents</span></div>
 <div class="stat"><span class="stat-number">21</span><span class="stat-label">Funded Startups</span></div>
-<div class="stat"><span class="stat-number">$88,888</span><span class="stat-label">Citizenship Cost</span></div>
+<div class="stat"><span class="stat-number">$88,888</span><span class="stat-label">Membership Tier</span></div>
 </div>
 
-Despite the split, Infinita's numbers are real and worth paying attention to. Eighty-nine permanent residents. Twenty-one funded startups operating within the community. Twenty-five million dollars raised by residents for their ventures. A $LIVES token economy that creates internal economic coordination. And a citizenship model priced at $88,888 -- high enough to signal serious commitment, potentially high enough to limit growth.
+Despite the split, Infinita's numbers are real and worth paying attention to. Eighty-nine permanent residents. Twenty-one funded startups operating within the community. Twenty-five million dollars raised by residents for their ventures. A $LIVES token economy that creates internal economic coordination. And a top-tier community membership priced at $88,888 (which Infinita calls "Network Citizenship," though it confers no legal citizenship or residency rights -- Próspera's actual e-Residency costs around $130/year). High enough to signal serious commitment, potentially high enough to limit growth.
 
 The longevity angle gives Infinita something most network state projects lack: a concrete, measurable mission. They're not just building "a better society" in the abstract. They're creating a regulatory environment where longevity research can move faster than traditional jurisdictions allow. Bryan Johnson, the don't-die poster child, has visited. The biotech pipeline is real.
 

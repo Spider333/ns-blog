@@ -60,10 +60,10 @@ The numbers tell a story of genuine traction. Infinita City has 89 permanent res
 <div class="stat"><span class="stat-number">89</span><span class="stat-label">Permanent Residents</span></div>
 <div class="stat"><span class="stat-number">$25M</span><span class="stat-label">Raised</span></div>
 <div class="stat"><span class="stat-number">21</span><span class="stat-label">Funded Startups</span></div>
-<div class="stat"><span class="stat-number">$88,888</span><span class="stat-label">Citizenship Cost</span></div>
+<div class="stat"><span class="stat-number">$88,888</span><span class="stat-label">Membership Tier</span></div>
 </div>
 
-The economic model is built around the $LIVES token, and citizenship costs $88,888 — a deliberately high bar designed to filter for committed participants rather than curious tourists. Physical infrastructure is materializing too: the Duna Tower in the Beta District represents serious capital deployment into permanent facilities.
+The economic model is built around the $LIVES token, and the top-tier "Network Citizenship" membership costs $88,888 — though this is a community membership, not legal citizenship (Próspera's actual e-Residency is around $130/year). It's a deliberately high bar designed to filter for committed participants rather than curious tourists. Physical infrastructure is materializing too: the Duna Tower in the Beta District represents serious capital deployment into permanent facilities.
 
 Infinita has built real programs around its regulatory advantages. The Infinite Games longevity competition creates structured incentives for life-extension research. The BioHub Startup Accelerator provides the standard startup infrastructure — funding, mentorship, workspace — but inside a regulatory environment that lets biotech startups move at a pace impossible in conventional jurisdictions.
 
@@ -98,7 +98,7 @@ The tagline is maximally ambitious: "A community building a new city to make dea
 
 The first Seed Tower is the Viva Frontier Tower: a 16-story building at 995 Market Street in San Francisco, purchased for $11 million (the building was assessed at $62 million back in 2016, giving you a sense of either the deal or the state of San Francisco commercial real estate). The building is organized as a "vertical village" with 200 members, floors themed around different domains: Robotics, Biotech (including a BioPunk wet lab), Longevity, Crypto, and AI.
 
-Membership runs $1,980 to $2,280 per year — orders of magnitude more accessible than Infinita's $88,888 citizenship. This is a deliberate choice. Viva is optimizing for community breadth at this stage, not revenue per member.
+Membership runs $1,980 to $2,280 per year — orders of magnitude more accessible than Infinita's $88,888 membership. This is a deliberate choice. Viva is optimizing for community breadth at this stage, not revenue per member.
 
 <div class="stat-banner reveal">
 <div class="stat"><span class="stat-number">200</span><span class="stat-label">Members</span></div>
@@ -133,7 +133,7 @@ Viva is fundamentally earlier stage. It has more members but less infrastructure
 Looking at the two projects side by side clarifies the tradeoffs each has made.
 
 <div class="compare-grid reveal">
-<div class="compare-card"><h4>Infinita City</h4><p>Charter city in Honduras with a live regulatory sandbox, 89 residents, $25M raised, and $88,888 citizenship — high commitment, high regulatory power, but existentially dependent on a single jurisdiction surviving legal challenge.</p></div>
+<div class="compare-card"><h4>Infinita City</h4><p>Charter city in Honduras with a live regulatory sandbox, 89 residents, $25M raised, and $88,888 membership tier — high commitment, high regulatory power, but existentially dependent on a single jurisdiction surviving legal challenge.</p></div>
 <div class="compare-card accent"><h4>Viva City</h4><p>Distributed network state with a San Francisco Seed Tower, 200 members, $11M invested, and sub-$2,300 membership — optimized for community scale and resilience, but without regulatory autonomy until a permanent jurisdiction is secured.</p></div>
 </div>
 
@@ -141,7 +141,7 @@ Looking at the two projects side by side clarifies the tradeoffs each has made.
 
 **Governance Model.** Infinita operates within Prospera's existing charter city framework — established rules, established courts, established arbitration. Viva is still defining its governance model, drawing from network state concepts but without a formal legal structure for self-governance.
 
-**Funding and Economics.** Infinita has raised $25 million and prices citizenship at $88,888, creating a high-commitment, high-resource community. Viva purchased a building for $11 million and charges under $2,300 per year, optimizing for scale and accessibility.
+**Funding and Economics.** Infinita has raised $25 million and prices its top membership tier at $88,888 (branded "Network Citizenship" but not legal citizenship), creating a high-commitment, high-resource community. Viva purchased a building for $11 million and charges under $2,300 per year, optimizing for scale and accessibility.
 
 **Community Size.** Infinita has 89 permanent residents and over a thousand visitors. Viva has 200 members. The comparison is not straightforward — Infinita's residents live there full-time while many of Viva's members are part-time participants — but both have achieved critical mass for their respective models.
 
