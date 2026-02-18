@@ -52,7 +52,7 @@ The logic is compelling. Developing nations often suffer not from a lack of reso
 
 The most prominent real-world experiment is [Prospera](https://prospera.hn/), a charter city on the island of Roatan in Honduras. Prospera operated under Honduras's ZEDE (Zones for Employment and Economic Development) legislation, which granted special jurisdictions sweeping autonomy over their own legal, tax, and regulatory systems. For a time, it attracted international attention as a proof of concept — a functioning jurisdiction with its own civil code, dispute resolution system, and e-residency program.
 
-Then politics intervened. In 2022, a new Honduran government repealed the ZEDE law. Prospera refused to shut down, arguing its legal framework included stability guarantees. The result is a [$10.7 billion arbitration claim](https://www.reuters.com/world/americas/investors-honduran-economic-zone-file-109-billion-claim-world-bank-tribunal-2024-02-07/) filed against Honduras at the World Bank's International Centre for Settlement of Investment Disputes (ICSID) — one of the largest investment treaty claims in history.
+Then politics intervened. In 2022, a new Honduran government repealed the ZEDE law. Prospera refused to shut down, arguing its legal framework included stability guarantees. The result is a [$10.7 billion arbitration claim](https://www.reuters.com/world/americas/investors-honduran-economic-zone-file-109-billion-claim-world-bank-tribunal-2024-02-07/) filed against Honduras at the World Bank's International Centre for Settlement of Investment Disputes (ICSID) — one of the larger investment treaty claims in recent years.
 
 **The strength** of charter cities is that they work within the existing nation-state system. They do not require overthrowing anything or sailing into the ocean. They leverage international investment law, bilateral treaties, and economic incentives to create alignment between the charter city and its host.
 
@@ -62,7 +62,7 @@ Then politics intervened. In 2022, a new Honduran government repealed the ZEDE l
 
 ## 2. Free Private Cities: Governance as a Service
 
-If charter cities try to work within the system, free private cities aim to reinvent the relationship between governors and governed entirely. The concept, articulated by German entrepreneur and legal theorist [Titus Gebel](https://www.freeprivatecities.com/) in his book *Free Private Cities: Making Governments Compete for You*, proposes a model where a private operator provides governance-as-a-service to residents through an explicit, legally binding agreement.
+If charter cities try to work within the system, free private cities aim to reinvent the relationship between governors and governed entirely. The concept, articulated by German entrepreneur and lawyer [Titus Gebel](https://www.freeprivatecities.com/) in his book *Free Private Cities: Making Governments Compete for You*, proposes a model where a private operator provides governance-as-a-service to residents through an explicit, legally binding agreement.
 
 The key innovation is the **Citizen Contract** — a real, enforceable document that specifies exactly what services the operator provides (security, infrastructure, dispute resolution, a legal framework) and what the resident pays in return. Unlike the metaphorical social contract of political philosophy, this one has actual terms, actual signatures, and actual recourse if either party breaches it.
 

@@ -63,7 +63,7 @@ The [RAK Digital Assets Oasis](https://rakdao.com/) (RAK DAO), located in the em
 
 RAK DAO offers specialized company formation for entities working in metaverse projects, blockchain infrastructure, NFT platforms, DeFi protocols, DAOs, and other digital-asset verticals. The licensing categories reflect this focus — you are not shoehorning a DAO into a "general trading" license. The zone has its own [virtual-asset regulatory framework](https://rakdao.com/business-activities), purpose-built dispute resolution mechanisms, and a governance structure that understands the difference between a token and a share certificate.
 
-For founders, the practical advantages are significant. There is no personal or corporate income tax, no restrictions on capital repatriation, and 100% foreign ownership is permitted. The zone has been actively courting Web3 companies and has already attracted a critical mass of crypto-native firms, creating the kind of ecosystem density that makes a jurisdiction genuinely useful rather than just theoretically attractive.
+For founders, the practical advantages are significant. There is no personal income tax, and free zone companies benefit from 0% corporate tax on qualifying income (though the UAE's 9% corporate tax may apply to non-qualifying activities or mainland revenue). There are no restrictions on capital repatriation, and 100% foreign ownership is permitted. The zone has been actively courting Web3 companies and has already attracted a critical mass of crypto-native firms, creating the kind of ecosystem density that makes a jurisdiction genuinely useful rather than just theoretically attractive.
 
 If you are a Web3 founder looking for a jurisdiction with real regulatory infrastructure — not just a "we won't bother you" promise — RAK DAO is currently one of the strongest options available.
 
@@ -95,7 +95,7 @@ For U.S.-based founders who want regulatory clarity on digital assets without le
 
 ## 3. MIDAO (Marshall Islands)
 
-The [Marshall Islands DAO Act](https://www.midao.org/) represents one of the cleanest examples of a sovereign nation adapting its legal code specifically for digital-native organizations. In 2022, the Republic of the Marshall Islands amended its Non-Profit Domestic Corporation Act to formally recognize Decentralized Autonomous Organizations as legal entities.
+The [Marshall Islands DAO Act](https://www.midao.org/) represents one of the cleanest examples of a sovereign nation adapting its legal code specifically for digital-native organizations. In 2022, the Republic of the Marshall Islands passed the DAO Act of 2022, building on its earlier Non-Profit Entities Act of 2021, to formally recognize Decentralized Autonomous Organizations as legal entities.
 
 This was not a vague statement of intent. The legislation provides DAOs with legal personhood, limited liability for members, and a framework for governance that maps to how DAOs actually operate — through smart contracts, token-based voting, and distributed decision-making rather than boards of directors and annual shareholder meetings.
 
@@ -113,7 +113,7 @@ The [Zanzibar Digital Free Zone](https://www.zdfz.go.tz/) is one of the more amb
 
 Zanzibar — a semi-autonomous region of Tanzania with its own president and legislative authority — has positioned the zone as a gateway for digital businesses operating across Africa and globally. The framework supports crypto companies, fintech ventures, and digital service providers, with licensing categories built around the actual activities these companies perform.
 
-What distinguishes the Zanzibar zone from simply registering an offshore company is the institutional infrastructure being built around it. The zone includes provisions for digital courts to resolve disputes, fully electronic corporate administration, and regulatory frameworks designed to accommodate cross-border digital transactions. The goal is not just to be a place where you can register a company, but a complete digital jurisdiction with its own governance logic.
+What distinguishes the Zanzibar zone from simply registering an offshore company is the institutional infrastructure being built around it. The zone includes plans for a digital arbitration mechanism to resolve disputes, fully electronic corporate administration, and regulatory frameworks designed to accommodate cross-border digital transactions. The goal is not just to be a place where you can register a company, but a complete digital jurisdiction with its own governance logic.
 
 For founders looking at African markets, the Zanzibar Digital Free Zone offers a potentially significant advantage: a regulatory environment designed for digital businesses, situated within a region where traditional corporate infrastructure is often either prohibitively bureaucratic or simply absent.
 
@@ -121,9 +121,9 @@ For founders looking at African markets, the Zanzibar Digital Free Zone offers a
 
 ## 5. Itana (Nigeria)
 
-[Itana](https://www.itana.city/) represents a different approach — a new city project in Nigeria that is leveraging Special Economic Zone frameworks with digital governance components built in from the start.
+[Itana](https://www.itana.city/) represents a different approach — a digital free zone in Nigeria with a physical district, leveraging Special Economic Zone frameworks with digital governance components built in from the start.
 
-Rather than creating a purely virtual jurisdiction, Itana is developing a physical city with digital-first governance. The project uses SEZ authority to create a regulatory environment that supports technology companies, remote workers, and digital-native organizations, while also building physical infrastructure — co-working spaces, residential areas, and innovation hubs.
+Rather than creating a purely virtual jurisdiction, Itana combines a digital free zone with a physical innovation district. The project uses SEZ authority to create a regulatory environment that supports technology companies, remote workers, and digital-native organizations, while also building physical infrastructure — co-working spaces, residential areas, and innovation hubs.
 
 <figure>
 <img src="/assets/blog/digital-special-economic-zones/tech-hub.jpg" alt="Modern technology hub workspace" />
@@ -136,7 +136,7 @@ For founders and digital nomads interested in Africa's technology ecosystem, Ita
 
 <div class="compare-grid reveal">
 <div class="compare-card"><h4>MIDAO (Marshall Islands)</h4><p>Pacific Islands — First sovereign nation to grant DAOs legal personhood, with fully online registration and limited liability for members</p></div>
-<div class="compare-card accent"><h4>Zanzibar Digital Free Zone</h4><p>Tanzania — Fully digital corporate regime with digital courts, electronic administration, and a gateway to African markets</p></div>
+<div class="compare-card accent"><h4>Zanzibar Digital Free Zone</h4><p>Tanzania — Fully digital corporate regime with planned digital arbitration, electronic administration, and a gateway to African markets</p></div>
 </div>
 
 <div class="compare-grid reveal">

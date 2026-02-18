@@ -87,13 +87,13 @@ If Zuzalu is the pop-up experiment, Infinita City is the permanent installation.
 The project was originally known as Vitalia and went through a notable split in January 2025. Niklas Anzinger, the driving force behind the longevity city concept, stayed and rebranded to Infinita City. Laurence Ion, his co-founder, departed to launch Viva City with a different vision. These kinds of founder splits are common in startups, but in network state building they carry extra weight -- the community *is* the product, and fractures in leadership become fractures in the social fabric.
 
 <div class="stat-banner reveal">
-<div class="stat"><span class="stat-number">89</span><span class="stat-label">Permanent Residents</span></div>
+<div class="stat"><span class="stat-number">~89</span><span class="stat-label">Community Members</span></div>
 <div class="stat"><span class="stat-number">$25M</span><span class="stat-label">Raised by Residents</span></div>
 <div class="stat"><span class="stat-number">21</span><span class="stat-label">Funded Startups</span></div>
 <div class="stat"><span class="stat-number">$88,888</span><span class="stat-label">Membership Tier</span></div>
 </div>
 
-Despite the split, Infinita's numbers are real and worth paying attention to. Eighty-nine permanent residents. Twenty-one funded startups operating within the community. Twenty-five million dollars raised by residents for their ventures. A $LIVES token economy that creates internal economic coordination. And a top-tier community membership priced at $88,888 (which Infinita calls "Network Citizenship," though it confers no legal citizenship or residency rights -- Próspera's actual e-Residency costs around $130/year). High enough to signal serious commitment, potentially high enough to limit growth.
+Despite the split, Infinita's numbers are real and worth paying attention to. The project claims around 89 community members. Twenty-one funded startups operating within the community. Twenty-five million dollars raised by residents for their ventures. A $LIVES token economy that creates internal economic coordination. And a top-tier community membership priced at $88,888 (which Infinita calls "Network Citizenship," though it confers no legal citizenship or residency rights -- Próspera's actual e-Residency costs around $130/year). High enough to signal serious commitment, potentially high enough to limit growth.
 
 The longevity angle gives Infinita something most network state projects lack: a concrete, measurable mission. They're not just building "a better society" in the abstract. They're creating a regulatory environment where longevity research can move faster than traditional jurisdictions allow. Bryan Johnson, the don't-die poster child, has visited. The biotech pipeline is real.
 
@@ -107,7 +107,7 @@ If Prospera's legal standing holds, Infinita could become the most advanced netw
 
 Afropolitan entered the network state conversation with one of the most compelling narratives in the space. A digital nation for the African diaspora. A pan-African identity layer that could connect 140 million people spread across the globe. A homeland that exists in the cloud first and in territory later.
 
-The pitch worked. In 2022, Afropolitan raised a $2.1 million seed round led by Balaji Srinivasan himself -- the godfather of the network state thesis putting his money where his book was. The cultural resonance was undeniable. While most network state projects appeal to a narrow slice of crypto-native libertarians, Afropolitan spoke to a genuine, deep, historically rooted desire for belonging and self-determination.
+The pitch worked. In 2022, Afropolitan raised a $2.1 million pre-seed round backed by Balaji Srinivasan and over 20 other investors -- the godfather of the network state thesis putting his money where his book was. The cultural resonance was undeniable. While most network state projects appeal to a narrow slice of crypto-native libertarians, Afropolitan spoke to a genuine, deep, historically rooted desire for belonging and self-determination.
 
 That was three years ago. And the execution gap since then has been painful to watch.
 
@@ -130,7 +130,7 @@ Balaji Srinivasan doesn't just theorize. After writing the book, he started buil
 <figcaption>Forest City, Malaysia -- the ghost town turned launchpad where Balaji's Network School trains the next generation of network state builders.</figcaption>
 </figure>
 
-The model is branded as "Learn, Burn, Earn, Fun" -- a structured program where members study, exercise (the Bryan Johnson Blueprint partnership handles the health protocol), build projects, and socialize. Version 2 launched in March 2025 with 256 members. Monthly costs run between $1,000 and $2,000, covering housing, meals, gym access, and coursework. For a live-in accelerator experience near Singapore, that's competitive pricing.
+The model is branded as "Learn, Earn, and Burn" -- a structured program where members study, build projects, and exercise (the Bryan Johnson Blueprint partnership handles the health protocol). Version 2 launched in March 2025 with 256 members. Monthly costs run between $1,000 and $2,000, covering housing, meals, gym access, and coursework. For a live-in accelerator experience near Singapore, that's competitive pricing.
 
 The location is strategic. Forest City is a massive, largely empty development in Johor, Malaysia, just across the causeway from Singapore. It was built by Chinese developer Country Garden as a luxury city for Chinese buyers, but capital controls and COVID left it a ghost town. For Network School, this is a feature, not a bug: abundant, cheap, modern infrastructure with proximity to one of Asia's most dynamic economies.
 

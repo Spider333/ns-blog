@@ -47,14 +47,14 @@ They call it a "society incubator," and the label is precise. Edge City doesn't 
 In just over two years of operation, Edge City has assembled a track record that puts most institutions to shame:
 
 <div class="stat-banner reveal">
-<div class="stat"><span class="stat-number">11K+</span><span class="stat-label">Total Participants</span></div>
+<div class="stat"><span class="stat-number">12K+</span><span class="stat-label">Total Participants</span></div>
 <div class="stat"><span class="stat-number">7+</span><span class="stat-label">Popup Villages</span></div>
 <div class="stat"><span class="stat-number">66</span><span class="stat-label">Countries Represented</span></div>
 <div class="stat"><span class="stat-number">$1M+</span><span class="stat-label">Grants Distributed</span></div>
 </div>
 
 - **7+ popup villages** across multiple continents
-- **11,000+ total participants** who have passed through Edge City events
+- **12,000+ total participants** who have passed through Edge City events
 - **$1 million+ in grants** distributed to projects and builders
 - **50+ startups and projects** supported or launched within Edge City communities
 - **66 countries** represented at Edge Esmeralda 2025 alone
@@ -178,7 +178,7 @@ It's an ambitious roadmap — perhaps unrealistically so. But Edge City is curre
 
 The most consequential thing happening in Edge City's orbit right now isn't a popup village — it's the Esmeralda Institute, and it represents the critical transition from stage one to stage four.
 
-Led by Devon Zuegel, former head of communities at GitHub and one of the sharpest thinkers on urban development in the tech world, the Esmeralda Institute is building a permanent walkable community approximately 90 minutes north of San Francisco. This is the test case for the hardest question in the entire popup city movement: can these temporary gatherings become real, lasting places?
+Led by Devon Zuegel, former Open Source Product Manager at GitHub and one of the sharpest thinkers on urban development in the tech world, the Esmeralda Institute is building a permanent walkable community approximately 90 minutes north of San Francisco. This is the test case for the hardest question in the entire popup city movement: can these temporary gatherings become real, lasting places?
 
 The challenges are substantial. Zoning, permitting, financing, long-term governance, local community relations — the gap between running a month-long event and building a permanent town is enormous. Popup villages can get away with creative improvisation. Permanent communities need water treatment, school districts, property rights, and a hundred other systems that take years to establish.
 
@@ -207,7 +207,7 @@ For anyone curious about the popup city movement, attending an Edge City event i
 
 Let's be direct: Edge City is the most successful proof point in the entire network state and popup city movement. Period.
 
-There are other fascinating experiments — Prospera, Praxis, Vitalia, the growing constellation of Zuzalu-inspired gatherings. But none has achieved Edge City's combination of real scale (11,000+ participants), genuine diversity (66 countries, ages 6 weeks to 86), institutional credibility (nonprofit structure, serious funders and judges), and tangible output (50+ projects, $1M+ in grants, a permanent community in development).
+There are other fascinating experiments — Prospera, Praxis, Vitalia, the growing constellation of Zuzalu-inspired gatherings. But none has achieved Edge City's combination of real scale (12,000+ participants), genuine diversity (66 countries, ages 6 weeks to 86), institutional credibility (nonprofit structure, serious funders and judges), and tangible output (50+ projects, $1M+ in grants, a permanent community in development).
 
 Edge City proves that the desire for different ways of living isn't a niche interest. Thousands of people from dozens of countries will rearrange their lives for a month to participate in these experiments. That demand signal is real and growing.
 
